@@ -1,0 +1,3 @@
+displayName = Strange Mirror
+author = ScalarVector
+version = 0.1
